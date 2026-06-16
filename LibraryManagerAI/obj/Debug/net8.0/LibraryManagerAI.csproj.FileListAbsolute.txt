@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\LibraryManagerAI\bin\Debug\net8.0\LibraryManagerAI.exe
+C:\Users\hp\source\repos\LibraryManagerAI\bin\Debug\net8.0\LibraryManagerAI.deps.json
+C:\Users\hp\source\repos\LibraryManagerAI\bin\Debug\net8.0\LibraryManagerAI.runtimeconfig.json
+C:\Users\hp\source\repos\LibraryManagerAI\bin\Debug\net8.0\LibraryManagerAI.dll
+C:\Users\hp\source\repos\LibraryManagerAI\bin\Debug\net8.0\LibraryManagerAI.pdb
+C:\Users\hp\source\repos\LibraryManagerAI\obj\Debug\net8.0\LibraryManagerAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\LibraryManagerAI\obj\Debug\net8.0\LibraryManagerAI.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\LibraryManagerAI\obj\Debug\net8.0\LibraryManagerAI.AssemblyInfo.cs
+C:\Users\hp\source\repos\LibraryManagerAI\obj\Debug\net8.0\LibraryManagerAI.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LibraryManagerAI\obj\Debug\net8.0\LibraryManagerAI.dll
+C:\Users\hp\source\repos\LibraryManagerAI\obj\Debug\net8.0\refint\LibraryManagerAI.dll
+C:\Users\hp\source\repos\LibraryManagerAI\obj\Debug\net8.0\LibraryManagerAI.pdb
+C:\Users\hp\source\repos\LibraryManagerAI\obj\Debug\net8.0\LibraryManagerAI.genruntimeconfig.cache
+C:\Users\hp\source\repos\LibraryManagerAI\obj\Debug\net8.0\ref\LibraryManagerAI.dll
